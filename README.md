@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Liujun Hua!
 
-<!--
-**huaregina/huaregina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 **Second-year MPP student at the University of Chicago** (Graduating in 2025 with STEM OPT)
+- 💼 **Aspiring Data Analyst**
+- 🔬 **Passionate about Data & Strategy**
+- 🌱 Currently exploring **Machine Learning, Data Engineering and Product Management**
 
-Here are some ideas to get you started:
+## 🌍 More About Me
+- 🎵 **City Pop Enthusiast**
+- 🐶 **Animal Lover** with a dog and two cats
+- 🎨 Enjoying **doodling** & once dreamed of being a picture book artist! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- 🌐 [LinkedIn](www.linkedin.com/in/liujun-hua)
+- 📝 [Medium](https://medium.com/@hualiujun)
+- ✉️ Email:liujunh@uchicago.edu
