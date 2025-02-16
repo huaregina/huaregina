@@ -9,9 +9,9 @@
 ## 🌍 More About Me
 - 🎵 **City Pop Enthusiast**
 - 🐶 **Animal Lover** with a dog and two cats
-- 🎨 Enjoying **doodling** & once dreamed of being a picture book artist! 
+- 🎨 Enjoy **doodling** & once dreamed of being a picture book artist
 
 ## 📫 Let's Connect!
 - 🌐 [LinkedIn](www.linkedin.com/in/liujun-hua)
 - 📝 [Medium](https://medium.com/@hualiujun)
-- ✉️ Email:liujunh@uchicago.edu
+- ✉️ Email: liujunh@uchicago.edu
