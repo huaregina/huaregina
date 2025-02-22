@@ -12,6 +12,6 @@
 - 🎨 Enjoy **doodling** & once dreamed of being a picture book artist
 
 ## 📫 Let's Connect!
-- 🌐 [LinkedIn](www.linkedin.com/in/liujun-hua)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/liujun-hua)
 - 📝 [Medium](https://medium.com/@hualiujun)
 - ✉️ Email: liujunh@uchicago.edu
